@@ -1,8 +1,8 @@
 # tdd-java
 
-##Project created in course alura
+Project created in course alura
 
-###Apprenticeship
+Apprenticeship
 
 - JUnit, library for create automated tests
 - TDD - test-driven development method
